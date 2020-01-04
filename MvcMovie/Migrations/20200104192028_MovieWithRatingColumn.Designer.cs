@@ -9,8 +9,8 @@ using MvcMovie.Data;
 namespace MvcMovie.Migrations
 {
     [DbContext(typeof(MvcMovieContext))]
-    [Migration("20200104191420_MovieWithRatedColumn")]
-    partial class MovieWithRatedColumn
+    [Migration("20200104192028_MovieWithRatingColumn")]
+    partial class MovieWithRatingColumn
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
