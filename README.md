@@ -1,3 +1,3 @@
 # sharpish-web
 
-ASP.NET Core web apps.
+ASP.NET Core web apps from the Microsoft Tutorials.
